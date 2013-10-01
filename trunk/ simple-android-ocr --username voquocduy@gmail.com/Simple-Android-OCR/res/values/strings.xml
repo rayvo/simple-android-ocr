@@ -5,5 +5,5 @@
     <string name="app_name">Simple Android OCR</string>
     <string name="button_text">OCR!</string>
     <string name="text_hint">OCRed Text will appear here</string>
-
+	<string name="button_select_photo">Select A Photo</string>
 </resources>
